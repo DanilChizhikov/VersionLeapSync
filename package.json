@@ -1,0 +1,25 @@
+{
+    "name": "com.danilchizhikov.vls",
+    "displayName": "VersionLeapSync",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "description": "VersionLeapSync is designed to solve migration tasks from one version to another.",
+    "keywords": [
+        "VersionLeapSync",
+        "versionleapsync",
+        "versioncontroll",
+        "version controll"
+    ],
+    "category": "Tools",
+    "author": "MbsCore",
+    "repository": {
+        "type": "git",
+        "url": "ssh://github.com:DanilChizhikov/VersionLeapSync.git",
+        "directory": "com.danilchizhikov.vls"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@DanilChizhikov"
+    },
+    "license": "MIT"
+  }
+  
