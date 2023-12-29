@@ -1,0 +1,16 @@
+{
+    "name": "VersionLeapSync.Runtime",
+    "rootNamespace": "MbsCore",
+    "references": [
+        "GUID:a0734bafebe5a40d0b38a10b4852ac5c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
